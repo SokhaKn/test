@@ -1,1 +1,1 @@
-wy:https://raw.githubusercontent.com/SokhaKn/test/main/readme.txt
+https://raw.githubusercontent.com/SokhaKn/test/main/readme.txt
